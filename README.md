@@ -13,7 +13,7 @@
 
 ```ruby
 
-def my great_mthod
+def my_great_method
 	puts "here it is"
 end
 ```
